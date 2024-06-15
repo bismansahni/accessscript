@@ -1,4 +1,4 @@
-name: Visit URL every 2 minutes
+name: Visit URL every 3 minutes
 
 on:
   schedule:
